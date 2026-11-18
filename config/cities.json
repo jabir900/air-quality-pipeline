@@ -1,0 +1,9 @@
+[
+  {"name": "Abuja", "latitude": 9.0765, "longitude": 7.3986},
+  {"name": "Lagos", "latitude": 6.5244, "longitude": 3.3792},
+  {"name": "Kano", "latitude": 12.0022, "longitude": 8.5920},
+  {"name": "Port Harcourt", "latitude": 4.8156, "longitude": 7.0498},
+  {"name": "Enugu", "latitude": 6.4584, "longitude": 7.5464},
+  {"name": "Maiduguri", "latitude": 11.8311, "longitude": 13.1510},
+  {"name": "Kaduna", "latitude": 10.5105, "longitude": 7.4165}
+]
