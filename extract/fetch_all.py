@@ -21,7 +21,7 @@ def fetch_city(city):
         "longitude": city["longitude"],
         "hourly": "pm10,pm2_5,carbon_monoxide,nitrogen_dioxide,ozone",
         "timezone": "Africa/Lagos",
-        "past_days": 1,
+        "past_days": 7,
         "forecast_days": 1,
     }
     response = requests.get(URL, params=params, timeout=30)
